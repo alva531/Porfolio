@@ -40,6 +40,7 @@
     body .h-100 p-5 bg-light border rounded-3, .h-100 p-5 text-white bg-dark rounded-3 {
         list-style-type: circle;
       }
+      
     /* Selector clase circular--square */
     /*
     .encabezado--especial {
